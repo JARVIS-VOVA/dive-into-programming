@@ -9,7 +9,7 @@
 #### 2025
 - AI Support Assist - [Code](https://github.com/JARVIS-VOVA/ai-support-assist) - [Rails, React, TypeScript, Docker Compose, Ollama, DigitalOcean]
 - Crisp Exporter - [Code](https://github.com/JARVIS-VOVA/crisp-exporter) - [Live Demo](https://crisp-exporter.vercel.app) - [Next.js, TypeScript, Tailwind CSS, Vercel]
-- Obmin USDT (Landing Page) - [Code](https://github.com/JARVIS-VOVA/obmin-usdt) - [Next.js, TypeScript, Tailwind CSS, Firebase, Vercel, Telegram Bot Notifications]
+- Obmin USDT - [Code](https://github.com/JARVIS-VOVA/obmin-usdt) - [Next.js, TypeScript, Tailwind CSS, Firebase, Vercel, Telegram Bot Notifications]
 - Handmade Shoes Kyiv (Landing Page) - [Code](https://github.com/JARVIS-VOVA/handmade-shoes-kyiv) - [Next.js, TypeScript, Tailwind CSS, Vercel, Telegram Bot Notifications]
 - Restavrator (Landing Page) - [Code](https://github.com/JARVIS-VOVA/restavrator) - [Next.js, TypeScript, Tailwind CSS, Vercel, Telegram Bot Notifications]
 - Unity Introduction - [Unity]
