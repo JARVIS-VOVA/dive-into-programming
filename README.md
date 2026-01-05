@@ -40,7 +40,7 @@
 - Task Manager - [Code](https://github.com/JARVIS-VOVA/task-manager-ruby-garage) - [Ruby on Rails, React, Docker]
 - Need For JS - [Code](https://github.com/JARVIS-VOVA/glo-academy-need-for-js) - [HTML/CSS, JS]
 - Telegram Bot - [Code](https://github.com/JARVIS-VOVA/telegram-bot/tree/master) - [Python]
-- Events - [Code](https://github.com/JARVIS-VOVA/events) - [JS]
+- Events (Terminal Event Tracker) - [Code](https://github.com/JARVIS-VOVA/events) - [JS]
 - Anonymizer - [Code](https://github.com/JARVIS-VOVA/anonymizer) - [Ruby]
 
 #### 2019
