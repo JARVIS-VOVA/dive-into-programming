@@ -3,7 +3,15 @@
 
 ### Coding Journey Timeline
 
+#### 2026
+- Uman Drova (Landing Page) - [uman-drova](https://github.com/JARVIS-VOVA/uman-drova) - [Next.js, TypeScript, Supabase, Tailwind CSS, Vercel, Telegram Bot Notifications]
+
 #### 2025
+- AI Support Assist - [ai-support-assist](https://github.com/JARVIS-VOVA/ai-support-assist) - [Rails, React, TypeScript, Docker Compose, Ollama, DigitalOcean]
+- Crisp Exporter - [crisp-exporter](https://github.com/JARVIS-VOVA/crisp-exporter) - [Live Demo](https://crisp-exporter.vercel.app) - [Next.js, TypeScript, Tailwind CSS, Vercel]
+- Obmin USDT (Landing Page) - [obmin-usdt](https://github.com/JARVIS-VOVA/obmin-usdt) - [Next.js, TypeScript, Tailwind CSS, Firebase, Vercel, Telegram Bot Notifications]
+- Handmade Shoes Kyiv (Landing Page) - [handmade-shoes-kyiv](https://github.com/JARVIS-VOVA/handmade-shoes-kyiv) - [Next.js, TypeScript, Tailwind CSS, Vercel, Telegram Bot Notifications]
+- Restavrator (Landing Page) - [restavrator](https://github.com/JARVIS-VOVA/restavrator) - [Next.js, TypeScript, Tailwind CSS, Vercel, Telegram Bot Notifications]
 - Unity Introduction - [Unity]
 - Tinder Bot - [tinder-bot](https://github.com/JARVIS-VOVA/dive-into-programming/tree/master/03%20tinder-bot) - [Python]
 - Banderogus - [banderogus](https://github.com/JARVIS-VOVA/dive-in-programming/tree/master/04%20banderogus) - [HTML/CSS]
