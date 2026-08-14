@@ -4,8 +4,8 @@
 ### Coding Journey Timeline
 
 #### 2026
-- City Transfer (Landing Page) - [Code](https://github.com/JARVIS-VOVA/city-transfer) - [Next.js, TypeScript, Tailwind CSS, Vercel, Telegram Bot Notifications]
-- Broker (Landing Page) - [Code](https://github.com/JARVIS-VOVA/save-park-kyiv) - [Next.js, TypeScript, Supabase, Tailwind CSS, Vercel, Telegram Bot Notifications]
+- Kyiv Transfer (Landing Page) - [Code](https://github.com/JARVIS-VOVA/kyiv-transfer) - [Next.js, TypeScript, Tailwind CSS, Vercel, Telegram Bot Notifications]
+- Save Park Kyiv (Landing Page) - [Code](https://github.com/JARVIS-VOVA/save-park-kyiv) - [Next.js, TypeScript, Supabase, Tailwind CSS, Vercel, Telegram Bot Notifications]
 - Broker (Landing Page) - [Code](https://github.com/JARVIS-VOVA/broker) - [Next.js, TypeScript, Supabase, Tailwind CSS, Vercel, Telegram Bot Notifications]
 - Uman Drova (Landing Page) - [Code](https://github.com/JARVIS-VOVA/uman-drova) - [Next.js, TypeScript, Supabase, Tailwind CSS, Vercel, Telegram Bot Notifications]
 
