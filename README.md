@@ -6,7 +6,7 @@
 #### 2026
 - Kyiv Transfer (Landing Page) - [Code](https://github.com/JARVIS-VOVA/kyiv-transfer) - [Next.js, TypeScript, Tailwind CSS, Vercel, Telegram Bot Notifications]
 - Save Park Kyiv (Landing Page) - [Code](https://github.com/JARVIS-VOVA/save-park-kyiv) - [Next.js, TypeScript, Supabase, Tailwind CSS, Vercel, Telegram Bot Notifications]
-- Berkana Brok (Landing Page) - [Code](https://github.com/JARVIS-VOVA/broker) - [Next.js, TypeScript, Supabase, Tailwind CSS, Vercel, Telegram Bot Notifications]
+- Berkana Brok (Landing Page) - [Code](https://github.com/JARVIS-VOVA/berkana-brok) - [Next.js, TypeScript, Supabase, Tailwind CSS, Vercel, Telegram Bot Notifications]
 - Uman Drova (Landing Page) - [Code](https://github.com/JARVIS-VOVA/uman-drova) - [Next.js, TypeScript, Supabase, Tailwind CSS, Vercel, Telegram Bot Notifications]
 
 #### 2025
