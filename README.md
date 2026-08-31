@@ -4,6 +4,8 @@
 ### Coding Journey Timeline
 
 #### 2026
+- Trendhero Exporter - [Code](https://github.com/JARVIS-VOVA/trendhero-exporter) - [Python, Elasticsearch]
+- Telegram Extractor - [Code](https://github.com/JARVIS-VOVA/telegram-extractor) - [Python, Telegram API]
 - Kyiv Transfer (Landing Page) - [Code](https://github.com/JARVIS-VOVA/kyiv-transfer) - [Next.js, TypeScript, Tailwind CSS, Vercel, Telegram Bot Notifications]
 - Save Park Kyiv (Landing Page) - [Code](https://github.com/JARVIS-VOVA/save-park-kyiv) - [Next.js, TypeScript, Supabase, Tailwind CSS, Vercel, Telegram Bot Notifications]
 - Berkana Brok (Landing Page) - [Code](https://github.com/JARVIS-VOVA/berkana-brok) - [Next.js, TypeScript, Supabase, Tailwind CSS, Vercel, Telegram Bot Notifications]
